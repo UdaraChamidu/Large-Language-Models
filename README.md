@@ -10,3 +10,15 @@ This repository will contains everything related to LLMs. LLM from scratch, LLM 
 ### - chat_template - llama-3.1
 ### - Definning the training model
 ### - Train the model (fine tununing, trainable parameters - 1 000 000 000), Add the key which is generated from weigh and bial site.
+
+---
+
+# FineTuning the Microsoft bioGPT for Eye diseases
+
+## Steps
+
+### - Dataset - 16 000 + Q&A in .json format
+### - Use the Language Model - microsoft/biogpt
+### - Definning the training model
+### - Train the model
+### - Only trained for 3 epoches
